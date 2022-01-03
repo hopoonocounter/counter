@@ -11,11 +11,7 @@
   .container {
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(
-        rgba(255, 255, 255, 0.534),
-        rgba(0, 0, 0, 0.877)
-      ),
-      url(/pexels-quang-nguyen-vinh-3355788.jpg);
+    background: url(/pexels-quang-nguyen-vinh-3355788.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
